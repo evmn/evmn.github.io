@@ -1,5 +1,6 @@
 ## Websites
-
+ - [Penguin Books](https://www.penguin.com/)
+ - [Five Books](https://fivebooks.com/)
  - [Standard Ebooks](https://standardebooks.org/ebooks/)
  - [Delphi Classics](https://www.delphiclassics.com/)
  - [书伴](https://bookfere.com)
