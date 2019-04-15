@@ -1,3 +1,8 @@
+## Blog Index
+
+ - [Shell Scripts](https://evmn.github.io/shell-scripts.html)
+ - [Raspberry Pi](https://evmn.github.io/raspberry-pi.html)
+
 ## Websites
  - [Penguin Books](https://www.penguin.com/)
  - [Five Books](https://fivebooks.com/)
@@ -21,3 +26,4 @@ Scheme|The Scheme Programming Language|
 Scheme|Structure and Interpretation of Computer Programs|
 SQL|Sams Teach Yourself SQL in 10 Minutes|
 JavaScript|JavaScript: The Definitive Guide|
+
