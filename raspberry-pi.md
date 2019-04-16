@@ -46,3 +46,19 @@ git push pi master
 ```sh
 vcgencmd measure_temp
 ```
+
+## Sync Folders From Raspberry Pi To Local Folder
+
+Add two line in `~/.ssh/config` file:
+
+```
+Host rpi.local
+Port 61734
+```
+
+Then, run the following command:
+
+```sh
+rsync -r git@rpi.local:/home/git/ ./
+```
+
