@@ -2,6 +2,20 @@
 
 Add your local machine's public key in `~/.ssh/id_rsa.pub` to Raspberry Pi file `~/.ssh/authorized_keys`
 
+## Read Your IP Address After Boot
+
+```sh
+#/bin/bash
+
+ip=$(hostname -I)
+for i in {1..3};
+do
+	echo "I P address is $ip" | festival --tts
+#	sleep 0.5
+done
+```
+
+
 ## Set A Repo On Raspberry Pi
 
 ```sh
