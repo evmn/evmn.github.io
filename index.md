@@ -1,6 +1,5 @@
 ## Blog Index
-
- - [Shell Scripts](https://evmn.github.io/shell-scripts.html)
+ - [Todo List](https://evmn.github.io/todo.html)
  - [Raspberry Pi](https://evmn.github.io/raspberry-pi.html)
 
 ## Websites
