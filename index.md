@@ -1,3 +1,7 @@
+## Great Books
+
+ - [PoC or GTFO](https://evmn.github.io/post/2021-12-31-PoC-or-GTFO.html)
+
 ## Blog Index
  - [Todo List](https://evmn.github.io/todo.html)
  - [Raspberry Pi](https://evmn.github.io/raspberry-pi.html)
