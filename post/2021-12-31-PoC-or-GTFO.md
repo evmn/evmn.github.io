@@ -14,8 +14,13 @@
 
 ![](../image/2021-12-31-PoC/screenshot1.jpg)
 
+出现次数最多的作者Manul Laphroaig是一个虚拟人物。
+
 [下载链接](https://t.me/master_thyself/324)
 
 ## 参考链接
 
+ - [International Journal of PoC or GTFO issues](https://openwall.info/wiki/people/solar/pocorgtfo)
+ - Russian Wiki [International Journal of Proof-of-Concept](https://ru.wikipedia.org/wiki/International_Journal_of_Proof-of-Concept)
+ - [github.com/angea/pocorgtfo](https://github.com/angea/pocorgtfo)
  - [Archives of POC or GTFO](https://pocorgtfo.hacke.rs/)
