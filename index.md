@@ -1,6 +1,6 @@
 # Index
 
-[自制中英文电子书汇总](https://evmn.github.io/post/Know-Thyself/README-CN.html)
+ - [自制中英文电子书汇总](https://evmn.github.io/post/Know-Thyself/README-CN.html)
 
 ## Great Books
 
