@@ -12,11 +12,27 @@ Paul Graham曾在[The Lesson to Unlearn](http://paulgraham.com/lesson.html)中�
 
 Scott Alexander在[Book Review: Antifragile](https://astralcodexten.substack.com/p/book-review-antifragile)中提到了Nassim Nicholas Taleb对教育的看法，“他认为教育使人头脑迟钝，大学使人愚蠢、墨守成规”。
 
+<details>
+ <summary>原文:</summary>
 >I'm not comfortable applying the full connotations of "anti-intellectual" to Taleb, so let's just say he...hates intellectuals a lot. He thinks schooling dulls the mind, college makes people stupid and conformist, and theory is fragile - it's an attempt to shoehorn the complexity of the world into a single formal system, then deny any possibility of black swans/outside-the-system events, then collapse when they inevitably happen. Far better to learn in the school of hard knocks, encountering the real world in all its complexity.
+</details>
 
-Scott Alexander过去还曾在[Meditations On Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)中说“人们问为什么我们不能改革教育体系。但现在学生的动机是去他们能进入的最负盛名的大学，这样雇主就会雇用他们——不管他们是否学到任何东西。雇主的动机是尽可能让学生从最负盛名的大学毕业，这样他们就可以在出现问题时向老板捍卫自己的决定——无论大学是否提供附加值。大学的动机是不惜一切代价获得更高的声望，正如美国新闻和世界报道排名所衡量的那样——无论它是否有助于学生。这会导致巨大的浪费和糟糕的教育吗？是的。教育之神能否注意到这一点并制定一些教育法令，从而使系统更加高效？容易地！但是由于没有教育之神，每个人都只会遵循自己的激励措施，而这些激励措施与教育或效率仅部分相关。”
+Scott Alexander过去还曾在[Meditations On Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)中说:
 
+>“人们问为什么我们不能改革教育体系。
+>
+>>但现在学生的动机是去他们能进入的最负盛名的大学，这样雇主就会雇用他们——不管他们是否学到任何东西。
+>
+>>雇主的动机是尽可能让学生从最负盛名的大学毕业，这样他们就可以在出现问题时向老板捍卫自己的决定——无论大学是否提供附加值。
+>
+>>大学的动机是不惜一切代价获得更高的声望，正如美国新闻和世界报道排名所衡量的那样——无论它是否有助于学生。
+>
+>这会导致巨大的浪费和糟糕的教育吗？是的。教育之神能否注意到这一点并制定一些教育法令，从而使系统更加高效？容易地！但是由于没有教育之神，每个人都只会遵循自己的激励措施，而这些激励措施与教育或效率仅部分相关。”
+
+<details>
+ <summary>原文:</summary>
 >People ask why we can’t reform the education system. But right now students’ incentive is to go to the most prestigious college they can get into so employers will hire them – whether or not they learn anything. Employers’ incentive is to get students from the most prestigious college they can so that they can defend their decision to their boss if it goes wrong – whether or not the college provides value added. And colleges’ incentive is to do whatever it takes to get more prestige, as measured in US News and World Report rankings – whether or not it helps students. Does this lead to huge waste and poor education? Yes. Could the Education God notice this and make some Education Decrees that lead to a vastly more efficient system? Easily! But since there’s no Education God everybody is just going to follow their own incentives, which are only partly correlated with education or efficiency.
+</details>
 
 ------
 
@@ -36,11 +52,14 @@ Vitalik Buterin在19岁就离开大学开发Ethereum，年纪轻轻就对数学�
 
 《金刚经》第九品**一相无相分**有一段对话，我感觉也可以用来形容学历。如果你认为自己到了某个段位，那么你配不上这个段位，只有公认到达那个段位以上的人可以评估你配不配那个段位。
 
-记得《PoC || GTFO》中有篇文章（也可能是其它地方），说黑客不是对自己的称呼，只有很多公认的黑客认为你是黑客，你才算是黑客。
+<details>
+ <summary>原文:</summary>
+>“须菩提！于意云何？须陀洹能作是念：我得须陀洹果不？”须菩提言：“不也，世尊！何以故？须陀洹名为入流，而无所入。不入色、声、香、味、触、法，是名须陀洹。”“须菩提！于意云何？斯陀含能作是念：我得斯陀含果不？”须菩提言：“不也，世尊！何以故？斯陀含名一往来，而实无往来，是名斯陀含。”“须菩提！于意云何？阿那含能作是念：我得阿那含果不？”须菩提言：“不也，世尊！何以故？阿那含名为不来，而实无不来，是故名阿那含。”“须菩提！于意云何？阿罗汉能作是念：我得阿罗汉道不？”须菩提言：“不也，世尊！何以故？实无有法名阿罗汉。世尊！若阿罗汉作是念：我得阿罗汉道，即为著我、人、众生、寿者。世尊！佛说我得无诤三昧，人中最为第一，是第一离欲阿罗汉。世尊！我不作是念：我是离欲阿罗汉。世尊！我若作是念：我得阿罗汉道，世尊则不说，须菩提，是乐阿兰那行者。以须菩提实无所行，而名须菩提是乐阿兰那行。”
+</details>
+
+记得《PoC or GTFO》中有篇文章（也可能是其它地方），说黑客不是对自己的称呼，只有很多公认的黑客认为你是黑客，你才算是黑客。
 
 如果你长得像鸭子、走的像鸭子、叫的像鸭子，大家通过你的言谈举止就可以判断出你是鸭子(如果在国外会叫你duck)，不管你是否承认。
-
->“须菩提！于意云何？须陀洹能作是念：我得须陀洹果不？”须菩提言：“不也，世尊！何以故？须陀洹名为入流，而无所入。不入色、声、香、味、触、法，是名须陀洹。”“须菩提！于意云何？斯陀含能作是念：我得斯陀含果不？”须菩提言：“不也，世尊！何以故？斯陀含名一往来，而实无往来，是名斯陀含。”“须菩提！于意云何？阿那含能作是念：我得阿那含果不？”须菩提言：“不也，世尊！何以故？阿那含名为不来，而实无不来，是故名阿那含。”“须菩提！于意云何？阿罗汉能作是念：我得阿罗汉道不？”须菩提言：“不也，世尊！何以故？实无有法名阿罗汉。世尊！若阿罗汉作是念：我得阿罗汉道，即为著我、人、众生、寿者。世尊！佛说我得无诤三昧，人中最为第一，是第一离欲阿罗汉。世尊！我不作是念：我是离欲阿罗汉。世尊！我若作是念：我得阿罗汉道，世尊则不说，须菩提，是乐阿兰那行者。以须菩提实无所行，而名须菩提是乐阿兰那行。”
 
 ![](../image/2022-01-19-On-Education/Rank_Pyramid.jpg)
 
