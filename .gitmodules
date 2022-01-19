@@ -1,0 +1,3 @@
+[submodule "post/Know-Thyself"]
+	path = post/Know-Thyself
+	url = git@github.com:evmn/Know-Thyself.git
