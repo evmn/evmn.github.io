@@ -5,7 +5,7 @@
 ## Blog Index
 
  - 2022-01-19 [谈教育](https://evmn.github.io/post/2022-01-19-On-Education.html)
- - 2022-01-20 [“恩”将仇报](https://evmn.github.io/post/2022-01-20-too-much-help-lead-to-hatred.md)
+ - 2022-01-20 [“恩”将仇报](https://evmn.github.io/post/2022-01-20-too-much-help-lead-to-hatred.html)
 
 ## Archives
 
