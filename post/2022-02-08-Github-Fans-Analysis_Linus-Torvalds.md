@@ -15,7 +15,7 @@ Followers|Number
 1000+|368
 2000+|146
 
-Followers|Number
+Stars|Number
 :-|-:
 10+|34514
 50+|14077
