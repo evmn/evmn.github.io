@@ -7,7 +7,7 @@
 获得Stars最多的粉丝
 
 user|stars|followers|following
-:-|:-|:-|:-
+:-|-:|-:|-:
 justjavac|148843|14931|107
 labuladong|101630|4202|27
 mrdoob|92837|18143|163
@@ -22,7 +22,7 @@ vsouza|40491|1273|320
 Followers最多的粉丝
 
 user|stars|followers|following
-:-|:-|:-|:-
+:-|-:|-:|-:
 yyx990803|14490|78039|94
 peng-zhihui|40333|38846|9
 kennethreitz|10013|28556|199
@@ -37,7 +37,7 @@ bailicangdu|78091|12567|19
 Following最多的粉丝
 
 user|stars|followers|following
-:-|:-|:-|:-
+:-|-:|-:|-:
 KevinHock|109|4432|303560
 angusshire|1977|12163|228943
 dalinhuang99|471|6467|160020
@@ -55,13 +55,13 @@ mbautin|40|1247|41722
 各项中位数
 
 Median|Stars|Followers|Following
-:-|:-|:-|:-
+:-|-:|-:|-:
 Value|1|7|15
 
 ## 项目信息
 
 Language|Star>=1|Star>=10|Star>=100|Star>=500|Star>=1000
--:|-:|-:|-:|-:|-:
+:-|-:|-:|-:|-:|-:
 Total|656624|62865|10909|2815|1434
 JavaScript|106981|11178|1927|496|266
 Markdown|88088|5275|1079|367|205
